@@ -1,7 +1,16 @@
 # recipe-image
 
-Application for a Recipe website -> finds other recipes with similar rare ingredients
+Application for a Recipe website -> finds other recipes with similar rare ingredients 
 
+
+To enjoy the application, follow these simple steps:
+
+-Find a URL that holds your latest recipe!
+-Paste the URL into the search bar of our web application
+-(Optional) If you have dietary restrictions, select them now
+-Enjoy a list of tasty new recipes that share similar uncommon ingredients
+
+# With Container installation
 
 Git clone 
 
@@ -18,15 +27,7 @@ http://127.0.0.1:5000
 - Aine Keenan
 
   
-
-Here is a simple Flask web application that uses HTML templates.
-
-To enjoy the application, follow these simple steps:
-
--Find a URL that holds your latest recipe!
--Paste the URL into the search bar of our web application
--(Optional) If you have dietary restrictions, select them now
--Enjoy a list of tasty new recipes that share similar uncommon ingredients
+# Without Containers
 
 To run the application outside of podman, follow these simple steps:
 
