@@ -5,10 +5,10 @@ Application for a Recipe website -> finds other recipes with similar rare ingred
 
 To enjoy the application, follow these simple steps:
 
--Find a URL that holds your latest recipe!
--Paste the URL into the search bar of our web application
--(Optional) If you have dietary restrictions, select them now
--Enjoy a list of tasty new recipes that share similar uncommon ingredients
+- Find a URL that holds your latest recipe!
+- Paste the URL into the search bar of our web application
+- (Optional) If you have dietary restrictions, select them now
+- Enjoy a list of tasty new recipes that share similar uncommon ingredients
 
 # With Container installation
 
