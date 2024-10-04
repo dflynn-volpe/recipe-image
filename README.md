@@ -31,8 +31,12 @@ http://127.0.0.1:5000
 
 To run the application outside of podman, follow these simple steps:
 
--Download the dependencies needed with pip install -r requirements.txt
--Clone the repository in a directory of your choice
+- Download the dependencies needed with pip install -r requirements.txt
+
+- Clone the repository in a directory of your choice
+
 -Run the application on a local host. Default port 5000
+
 -Command to run application: python app.py or python3 -m flask run
+
 -Watch the magic happen!
